@@ -26,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/2324-find-triangular-sum-of-an-array) |
+## Database
+|  |
+| ------- |
+| [1153-product-sales-analysis-i](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1153-product-sales-analysis-i) |
 <!---LeetCode Topics End-->
