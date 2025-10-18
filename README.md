@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0794-swim-in-rising-water](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0794-swim-in-rising-water) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0088-merge-sorted-array) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Math
 |  |
 | ------- |
@@ -70,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+## Greedy
+|  |
+| ------- |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 <!---LeetCode Topics End-->
