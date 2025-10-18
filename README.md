@@ -58,4 +58,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0794-swim-in-rising-water) |
+## Hash Table
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
