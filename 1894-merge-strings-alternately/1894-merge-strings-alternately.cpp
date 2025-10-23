@@ -4,7 +4,8 @@ public:
         string res = "";
         int n = word1.length();
         int m = word2.length();
-        int i = 0, j = 0;
+        int i = 0;
+        int j = 0;
 
         
         while (i < n || j < m) {
