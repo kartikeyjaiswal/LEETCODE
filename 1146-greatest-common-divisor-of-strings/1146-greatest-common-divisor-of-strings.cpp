@@ -9,7 +9,7 @@ public:
 
         int max=gcd(n,m);
         for (int i=0; i<max; i++){
-            res+=str1[i];
+            res+=str2[i];
 
         }
         return res;
