@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1146-greatest-common-divisor-of-strings](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3336-water-bottles-ii](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/3336-water-bottles-ii) |
 ## Simulation
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1894-merge-strings-alternately](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1894-merge-strings-alternately) |
 ## Sliding Window
