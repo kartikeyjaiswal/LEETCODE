@@ -9,7 +9,7 @@ public:
                 int c2 = a*a + b*b;
                 int c = (int)std::sqrt(c2);
                 if (c <= n && c * c == c2) {
-                    ++count;
+                    count++;
                 }
             }
         }
