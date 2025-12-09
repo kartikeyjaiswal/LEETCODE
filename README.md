@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0007-reverse-integer) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1925-count-square-sum-triples](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1925-count-square-sum-triples) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/2174-next-greater-numerically-balanced-number) |
