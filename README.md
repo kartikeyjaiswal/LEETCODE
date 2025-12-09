@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0794-swim-in-rising-water) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3583-count-special-triplets](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/3583-count-special-triplets) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Two Pointers
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/2174-next-greater-numerically-balanced-number) |
+| [3583-count-special-triplets](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/3583-count-special-triplets) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/3625-count-number-of-trapezoids-ii) |
 ## String
 |  |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2174-next-greater-numerically-balanced-number](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/2174-next-greater-numerically-balanced-number) |
+| [3583-count-special-triplets](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/3583-count-special-triplets) |
 ## Geometry
 |  |
 | ------- |
