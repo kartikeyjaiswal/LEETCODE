@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0794-swim-in-rising-water) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3583-count-special-triplets](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/3583-count-special-triplets) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0088-merge-sorted-array) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Math
 |  |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0605-can-place-flowers) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Enumeration
 |  |
