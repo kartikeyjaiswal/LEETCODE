@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0605-can-place-flowers) |
 | [0794-swim-in-rising-water](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0794-swim-in-rising-water) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -77,20 +78,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0794-swim-in-rising-water) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0794-swim-in-rising-water) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0794-swim-in-rising-water) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Union Find
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0794-swim-in-rising-water) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -100,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0794-swim-in-rising-water) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Hash Table
 |  |
 | ------- |
