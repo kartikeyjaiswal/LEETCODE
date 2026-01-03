@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0022-generate-parentheses) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/2054-two-best-non-overlapping-events) |
 ## Divide and Conquer
 |  |
