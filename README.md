@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0605-can-place-flowers) |
 | [0794-swim-in-rising-water](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0794-swim-in-rising-water) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1390-four-divisors](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1390-four-divisors) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/2054-two-best-non-overlapping-events) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0029-divide-two-integers) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1390-four-divisors](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1390-four-divisors) |
 | [1925-count-square-sum-triples](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1925-count-square-sum-triples) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/2324-find-triangular-sum-of-an-array) |
