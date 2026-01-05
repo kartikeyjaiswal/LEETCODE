@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1390-four-divisors) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1975-maximum-matrix-sum](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1975-maximum-matrix-sum) |
 | [2054-two-best-non-overlapping-events](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/2054-two-best-non-overlapping-events) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0794-swim-in-rising-water) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1975-maximum-matrix-sum](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1975-maximum-matrix-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0605-can-place-flowers) |
+| [1975-maximum-matrix-sum](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1975-maximum-matrix-sum) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Enumeration
