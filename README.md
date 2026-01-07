@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1390-four-divisors](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1390-four-divisors) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1929-concatenation-of-array](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1975-maximum-matrix-sum) |
 | [2054-two-best-non-overlapping-events](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/2054-two-best-non-overlapping-events) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1929-concatenation-of-array](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3336-water-bottles-ii](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/3336-water-bottles-ii) |
 ## Combinatorics
