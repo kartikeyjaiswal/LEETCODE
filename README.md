@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1975-maximum-matrix-sum) |
 | [2054-two-best-non-overlapping-events](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/2054-two-best-non-overlapping-events) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3453-separate-squares-i](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/3454-separate-squares-ii) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [2054-two-best-non-overlapping-events](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/2054-two-best-non-overlapping-events) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Math
