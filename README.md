@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0085-maximal-rectangle](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0605-can-place-flowers](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0605-can-place-flowers) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0794-swim-in-rising-water](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0794-swim-in-rising-water) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/2054-two-best-non-overlapping-events) |
