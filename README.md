@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Brainteaser
