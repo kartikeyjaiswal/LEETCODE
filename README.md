@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0047-permutations-ii) |
 | [0085-maximal-rectangle](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0605-can-place-flowers](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0605-can-place-flowers) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0047-permutations-ii) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Counting
 |  |
