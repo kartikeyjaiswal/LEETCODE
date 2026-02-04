@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0051-n-queens) |
 | [0085-maximal-rectangle](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0605-can-place-flowers](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0605-can-place-flowers) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0051-n-queens) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Counting
 |  |
