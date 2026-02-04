@@ -1,41 +1,61 @@
-//Solution 01:
-**class Solution {
-public:
-    bool isNumber(string s)
-    {
-        bool digitSeen=false, dotSeen=false, eSeen=false;
-        int plusMinus=0,n=s.length();
-        
-        for(int i=0; i<n; i++)
-        {
-            //digit check
-            if(s[i]-'0'>=0 && s[i]-'0'<=9)
-                digitSeen=true;
-            
-            //sign check
-            else if(s[i]=='+' || s[i]=='-')
-            {
-                if(plusMinus==2 || (i>0 && (s[i-1]!='e' && s[i-1]!='E')) || i==n-1) return false;
-                plusMinus++;
-            }
-            
-            //e,E check
-            else if(s[i]=='e' || s[i]=='E')
-            {
-                if(eSeen || !digitSeen || i==n-1) return false;
-                eSeen=true;
-            }
-            
-            //dot check
-            else if(s[i]=='.')
-            {
-                if(eSeen || dotSeen || (i==n-1 && !digitSeen)) return false;
-                dotSeen=true;
-            }
-            else
-              return false;
-            
+class Solution {
+    enum State {
+        EXPONENT,
+        DECIMAL,
+        INTEGER,
+        START,
+        EMPTY_INTEGER,
+        EMPTY_DECIMAL,
+        EXPONENT_START,
+        EMPTY_EXPONENT,
+        FAIL,
+    };
+    enum Token {
+        SIGN,
+        DIGIT,
+        DOT,
+        EXP,
+        OTHER,
+    };
+    State transition[FAIL][OTHER] = {
+        /* EXPONENT */       {FAIL, EXPONENT, FAIL, FAIL},
+        /* DECIMAL */        {FAIL, DECIMAL, FAIL, EXPONENT_START},
+        /* INTEGER */        {FAIL, INTEGER, DECIMAL, EXPONENT_START},
+        /* START */          {EMPTY_INTEGER, INTEGER, EMPTY_DECIMAL, FAIL},
+        /* EMPTY_INTEGER */  {FAIL, INTEGER, EMPTY_DECIMAL, FAIL},
+        /* EMPTY_DECIMAL */  {FAIL, DECIMAL, FAIL, FAIL},
+        /* EXPONENT_START */ {EMPTY_EXPONENT, EXPONENT, FAIL, FAIL},
+        /* EMPTY_EXPONENT */ {FAIL, EXPONENT, FAIL, FAIL},
+    };
+    Token parse(char c) {
+        switch (c) {
+            case '+':
+            case '-': return SIGN;
+            case '.': return DOT;
+            case '0':
+            case '1':
+            case '2':
+            case '3':
+            case '4':
+            case '5':
+            case '6':
+            case '7':
+            case '8':
+            case '9': return DIGIT;
+            case 'e':
+            case 'E': return EXP;
+            default: return OTHER;
         }
-        return true;
     }
-};**
+public:
+    bool isNumber(string s) {
+        State state = START;
+        for (const char c : s) {
+            const Token ch = parse(c);
+            if (ch == OTHER) { return false; }
+            state = transition[state][ch];
+            if (state == FAIL) { return false; }
+        }
+        return state < START;
+    }
+};
