@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0062-unique-paths) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1266-minimum-time-visiting-all-points](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1390-four-divisors) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0062-unique-paths) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Database
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0062-unique-paths) |
 | [0085-maximal-rectangle](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
