@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0056-merge-intervals) |
 | [0085-maximal-rectangle](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0605-can-place-flowers](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0605-can-place-flowers) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
