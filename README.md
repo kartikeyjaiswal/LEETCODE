@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0067-add-binary) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1266-minimum-time-visiting-all-points](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1390-four-divisors) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0067-add-binary) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0065-valid-number) |
+| [0067-add-binary](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
@@ -378,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0067-add-binary) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Stack
