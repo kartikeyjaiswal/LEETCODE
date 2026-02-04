@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0045-jump-game-ii) |
 | [0085-maximal-rectangle](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0605-can-place-flowers](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0605-can-place-flowers) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0045-jump-game-ii) |
 | [0605-can-place-flowers](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0605-can-place-flowers) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1975-maximum-matrix-sum) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0045-jump-game-ii) |
 | [0085-maximal-rectangle](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
