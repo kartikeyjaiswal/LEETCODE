@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0070-climbing-stairs) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1266-minimum-time-visiting-all-points](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1390-four-divisors) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
@@ -450,4 +452,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
