@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0049-group-anagrams) |
 | [0085-maximal-rectangle](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0605-can-place-flowers](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0605-can-place-flowers) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0049-group-anagrams) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
