@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0044-wildcard-matching) |
 | [0125-valid-palindrome](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0044-wildcard-matching) |
 | [0605-can-place-flowers](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0605-can-place-flowers) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1975-maximum-matrix-sum) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0044-wildcard-matching) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0044-wildcard-matching) |
 | [0085-maximal-rectangle](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
