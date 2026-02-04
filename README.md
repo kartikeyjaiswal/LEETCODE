@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0059-spiral-matrix-ii) |
 | [0085-maximal-rectangle](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0605-can-place-flowers](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0605-can-place-flowers) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0059-spiral-matrix-ii) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0059-spiral-matrix-ii) |
 | [0085-maximal-rectangle](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0794-swim-in-rising-water](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0794-swim-in-rising-water) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
