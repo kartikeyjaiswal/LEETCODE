@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0605-can-place-flowers](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0605-can-place-flowers) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0794-swim-in-rising-water](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0794-swim-in-rising-water) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/2174-next-greater-numerically-balanced-number) |
