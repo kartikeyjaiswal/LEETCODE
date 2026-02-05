@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0071-simplify-path) |
 | [0085-maximal-rectangle](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Brainteaser
