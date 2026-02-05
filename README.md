@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
