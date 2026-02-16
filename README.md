@@ -401,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0053-maximum-subarray) |
+| [0190-reverse-bits](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0190-reverse-bits) |
 | [3719-longest-balanced-subarray-i](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/3721-longest-balanced-subarray-ii) |
 ## Merge Sort
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0190-reverse-bits) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Stack
