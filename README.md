@@ -336,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0052-n-queens-ii) |
+| [0401-binary-watch](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0401-binary-watch) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Counting
 |  |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0190-reverse-bits) |
+| [0401-binary-watch](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0401-binary-watch) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Stack
