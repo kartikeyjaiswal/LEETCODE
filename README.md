@@ -349,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1894-merge-strings-alternately) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1980-find-unique-binary-string](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1980-find-unique-binary-string) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3713-longest-balanced-substring-i](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/3714-longest-balanced-substring-ii) |
