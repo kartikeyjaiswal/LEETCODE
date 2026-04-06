@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0605-can-place-flowers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0794-swim-in-rising-water](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0794-swim-in-rising-water) |
+| [0874-walking-robot-simulation](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0874-walking-robot-simulation) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1200-minimum-absolute-difference](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1266-minimum-time-visiting-all-points) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0068-text-justification) |
 | [0657-robot-return-to-origin](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0657-robot-return-to-origin) |
+| [0874-walking-robot-simulation](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0874-walking-robot-simulation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0874-walking-robot-simulation](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0874-walking-robot-simulation) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1980-find-unique-binary-string) |
