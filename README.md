@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/2054-two-best-non-overlapping-events) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2463-minimum-total-distance-traveled](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1975-maximum-matrix-sum) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/3474-lexicographically-smallest-generated-string) |
