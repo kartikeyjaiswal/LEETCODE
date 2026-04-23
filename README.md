@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2615-sum-of-distances](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/2615-sum-of-distances) |
 | [2751-robot-collisions](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/2751-robot-collisions) |
 | [2906-construct-product-matrix](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/2906-construct-product-matrix) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1980-find-unique-binary-string) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2615-sum-of-distances](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/2615-sum-of-distances) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3488-closest-equal-element-queries](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/3488-closest-equal-element-queries) |
@@ -598,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1895-largest-magic-square) |
+| [2615-sum-of-distances](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/2906-construct-product-matrix) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
