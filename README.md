@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0396-rotate-function](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0396-rotate-function) |
+| [0788-rotated-digits](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0788-rotated-digits) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1266-minimum-time-visiting-all-points](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1390-four-divisors) |
@@ -514,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0396-rotate-function](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0396-rotate-function) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0788-rotated-digits](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0799-champagne-tower) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
