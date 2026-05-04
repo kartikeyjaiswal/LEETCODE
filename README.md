@@ -572,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0071-simplify-path) |
 | [0085-maximal-rectangle](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0085-maximal-rectangle) |
+| [0225-implement-stack-using-queues](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2751-robot-collisions](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/2751-robot-collisions) |
@@ -673,10 +674,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [1622-fancy-sequence](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/1622-fancy-sequence) |
 | [2069-walking-robot-simulation-ii](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/2069-walking-robot-simulation-ii) |
 ## Trie
 |  |
 | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/2452-words-within-two-edits-of-dictionary) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/kartikeyjaiswal/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
